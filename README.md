@@ -6,7 +6,7 @@
 ### 二分法效率测试: xIPGeo-tools.py
 
 ### 截图
-![image](https://github.com/DrizzleRisk/TUnpacker/blob/master/screen.png)
+![image](https://github.com/DrizzleRisk/ipDB/blob/master/screen.png)
 
 ##tips:
 ### 1.文件整体加载到内存需要耗费一些时间，但二分法本身效率非常高,在python环境下,100万个随机ip匹配Geo信息,只需要几秒钟
